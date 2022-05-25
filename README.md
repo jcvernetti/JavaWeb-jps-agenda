@@ -1,2 +1,2 @@
 # JavaWeb-jps-agenda
-JavaWEB - Agenda de contatos - (tutorial do Prof. José de Assis
+JavaWEB - Agenda de contatos - (tutorial Youtube do Prof. José de Assis)
